@@ -13,3 +13,7 @@ This mod shows off features such as:
 • death counter and 100% accurate score calculator in gui
 
 All for free on github!
+
+To Use This mod you MUST extract it from the .zip
+
+Then drag the .jar into your minecraft mods folder
